@@ -1,0 +1,52 @@
+{
+  "questions": [
+    {
+      "question": "hello",
+      "answer": "hi! "
+    },
+    {
+      "question": "hey",
+      "answer": "hey there!"
+    },
+    {
+      "question": "how to start writing a story",
+      "answer": "To start writing a story, begin with an idea or \"what if\" scenario that excites you, then develop a strong premise and memorable characters with clear goals and conflicts. Set the scene with vivid descriptions, outline your plot with a beginning, middle, and end, and dive into writing without overthinking the first draft. Show emotions and events through actions and dialogue, and write regularly to build momentum. Once the draft is done, refine it through editing and seek constructive feedback while staying true to your vision."
+    },
+    {
+      "question": "whats 2+2",
+      "answer": "2+2 is 4"
+    },
+    {
+      "question": "2+2",
+      "answer": "4"
+    },
+    {
+      "question": "What should I write about?",
+      "answer": "Write about what excites or intrigues you. It could be a personal experience, a \"what if\" scenario, or a concept you want to explore. Draw inspiration from everyday life, news, or your imagination."
+    },
+    {
+      "question": "How do I make my characters relatable?",
+      "answer": "Give your characters strengths, flaws, and clear motivations. Show their emotions and struggles through actions and dialogue, making them feel human. Readers connect with characters who face challenges and grow."
+    },
+    {
+      "question": "What makes a good story opening?",
+      "answer": "Start with something engaging, such as action, an intriguing line of dialogue, or a vivid description. The goal is to hook the reader and make them curious about what happens next."
+    },
+    {
+      "question": "How do I overcome writer\u2019s block?",
+      "answer": "Take a break, brainstorm freely, or work on a different part of your story. Sometimes switching perspective, writing exercises, or setting smaller goals can help reignite creativity."
+    },
+    {
+      "question": "What if my plot feels boring?",
+      "answer": "Add unexpected twists, raise the stakes, or deepen the conflicts. Make sure your characters' goals and obstacles are clear and that the story keeps building tension."
+    },
+    {
+      "question": "How do I handle feedback on my writing?",
+      "answer": "Approach feedback with an open mind and a willingness to improve. Identify constructive suggestions that resonate with your vision and ignore unhelpful criticism."
+    },
+    {
+      "question": "how to get feedback ",
+      "answer": "WritePath offers community feedback. You can get feedback through comments."
+    }
+  ]
+}
