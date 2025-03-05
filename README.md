@@ -1,3 +1,3 @@
-WritePath AI 
+<H1>WritePath AI </H1>
 
-This chat bot is made to answer questions that arise among story writers
+This is a very very very basic chat bot built to answer basic questions writers might get while writing stories.
