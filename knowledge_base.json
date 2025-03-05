@@ -67,6 +67,142 @@
     {
       "question": "Thank you",
       "answer": "You're welcome!"
+    },
+    {
+      "question": "How can I overcome writer's block?",
+      "answer": "Try freewriting for 10 minutes, change your environment, read something inspiring, or take a short walk to clear your mind. Sometimes stepping away and returning later can help."
+    },
+    {
+      "question": "What are some tips for writing compelling characters?",
+      "answer": "Give your characters clear motivations, flaws, and unique voices. Create backstories for them and ensure their actions align with their personalities. Readers love relatable and dynamic characters."
+    },
+    {
+      "question": "How do I improve my dialogue writing?",
+      "answer": "Read your dialogue out loud to ensure it sounds natural. Avoid overly formal language unless it fits the character. Use dialogue to reveal personality and advance the plot, not just to fill space."
+    },
+    {
+      "question": "What is the three-act structure?",
+      "answer": "The three-act structure is a storytelling model divided into Setup (Act 1), Confrontation (Act 2), and Resolution (Act 3). It's a common framework used in novels, screenplays, and plays."
+    },
+    {
+      "question": "How do I write a strong opening line?",
+      "answer": "A strong opening line should hook the reader immediately. It can introduce a mystery, set the tone, or present a compelling character or situation. Make it intriguing and relevant to the story."
+    },
+    {
+      "question": "What are some common writing mistakes to avoid?",
+      "answer": "Common mistakes include overusing adverbs, telling instead of showing, inconsistent pacing, and neglecting character development. Always revise and edit your work to catch these issues."
+    },
+    {
+      "question": "How do I create a believable world in fiction?",
+      "answer": "Build your world with consistent rules, cultures, and histories. Show the world through the characters' experiences and avoid overwhelming the reader with too much information at once."
+    },
+    {
+      "question": "What is show, don't tell?",
+      "answer": "'Show, don't tell' means using actions, thoughts, and sensory details to convey emotions and events, rather than explicitly stating them. For example, instead of saying 'She was angry,' show her clenching her fists and glaring."
+    },
+    {
+      "question": "How do I write a good villain?",
+      "answer": "A good villain should have clear motivations and a believable backstory. Avoid making them purely evil; give them depth and complexity. A great villain often reflects or challenges the protagonist."
+    },
+    {
+      "question": "What are some good tools for writers?",
+      "answer": "Tools like Grammarly (for grammar checks), Scrivener (for organizing writing), Hemingway Editor (for readability), and Evernote (for note-taking) can be very helpful for writers."
+    },
+    {
+      "question": "How do I write a satisfying ending?",
+      "answer": "A satisfying ending resolves the main conflict, ties up loose ends, and stays true to the story's tone and themes. It should feel earned and leave the reader with a sense of closure."
+    },
+    {
+      "question": "What is the difference between plot and story?",
+      "answer": "The plot is the sequence of events in a narrative, while the story is the emotional journey and meaning behind those events. A good narrative balances both."
+    },
+    {
+      "question": "How do I write realistic romance?",
+      "answer": "Focus on building chemistry and tension between characters. Show their vulnerabilities and growth. Avoid clichés and ensure the relationship feels authentic and evolves naturally."
+    },
+    {
+      "question": "What is a beta reader?",
+      "answer": "A beta reader is someone who reads your manuscript before publication to provide feedback on plot, characters, pacing, and overall readability. They help identify areas for improvement."
+    },
+    {
+      "question": "How do I write a good query letter?",
+      "answer": "A good query letter is concise, professional, and engaging. Include a brief summary of your story, its genre, word count, and why you're the right person to write it. Personalize it for each agent or publisher."
+    },
+    {
+      "question": "What is pacing in writing?",
+      "answer": "Pacing refers to the speed at which a story unfolds. Good pacing balances action, dialogue, and description to keep the reader engaged without feeling rushed or dragged out."
+    },
+    {
+      "question": "How do I write a strong protagonist?",
+      "answer": "A strong protagonist has clear goals, flaws, and growth throughout the story. They should be relatable and face challenges that test their abilities and beliefs."
+    },
+    {
+      "question": "What is the hero's journey?",
+      "answer": "The hero's journey is a storytelling framework where a hero goes on an adventure, faces challenges, and returns transformed. It's a common structure in myths, novels, and films."
+    },
+    {
+      "question": "How do I write a good description?",
+      "answer": "Use sensory details (sight, sound, smell, touch, taste) to immerse the reader. Be specific and concise, and avoid overloading the reader with unnecessary details."
+    },
+    {
+      "question": "What is a writing prompt?",
+      "answer": "A writing prompt is a brief idea or scenario designed to inspire a story. It can be a sentence, image, or question to help writers overcome blocks or practice their craft."
+    },
+    {
+      "question": "How do I write humor?",
+      "answer": "Humor often comes from timing, exaggeration, or unexpected twists. Know your audience and use wit, irony, or absurdity. Test your jokes on others to see what works."
+    },
+    {
+      "question": "What is a subplot?",
+      "answer": "A subplot is a secondary storyline that runs parallel to the main plot. It can add depth to characters, themes, and the overall narrative, but should support the main story."
+    },
+    {
+      "question": "How do I write a good title?",
+      "answer": "A good title is memorable, relevant, and intriguing. It should reflect the tone or theme of the story and pique the reader's curiosity."
+    },
+    {
+      "question": "What is passive voice, and how do I avoid it?",
+      "answer": "Passive voice occurs when the subject of the sentence is acted upon (e.g., 'The ball was thrown by John'). To avoid it, make the subject perform the action (e.g., 'John threw the ball')."
+    },
+    {
+      "question": "How do I write a good conflict?",
+      "answer": "A good conflict should be meaningful and drive the story forward. It can be internal (within a character) or external (between characters or forces). Make it challenging but believable."
+    },
+    {
+      "question": "What is a writing style?",
+      "answer": "Writing style refers to the way an author uses language, tone, and structure to convey their story. It includes word choice, sentence structure, and narrative voice."
+    },
+    {
+      "question": "How do I write a good first draft?",
+      "answer": "Focus on getting your ideas down without worrying about perfection. Write freely and revise later. Remember, the first draft is just the starting point."
+    },
+    {
+      "question": "What is a trope?",
+      "answer": "A trope is a common theme, motif, or device in storytelling (e.g., 'the chosen one' or 'enemies to lovers'). Tropes can be effective if used creatively and not overdone."
+    },
+    {
+      "question": "How do I write a good mystery?",
+      "answer": "A good mystery keeps readers guessing with clues, red herrings, and twists. Ensure the solution is logical and satisfying, and that the stakes are high for the characters."
+    },
+    {
+      "question": "What is a writing routine?",
+      "answer": "A writing routine is a consistent schedule or habit that helps you write regularly. It could include setting specific times, word count goals, or rituals to get into the writing mindset."
+    },
+    {
+      "question": "How do I write a good fantasy story?",
+      "answer": "Build a unique and immersive world, establish clear rules for magic or technology, and focus on character development. Balance world-building with a compelling plot."
+    },
+    {
+      "question": "What is a writing critique group?",
+      "answer": "A writing critique group is a community of writers who share and provide feedback on each other's work. It's a great way to improve your writing and gain new perspectives."
+    },
+    {
+      "question": "How do I write a good memoir?",
+      "answer": "Focus on a specific theme or period in your life. Be honest and reflective, and use storytelling techniques to make your experiences engaging and relatable."
+    },
+    {
+      "question": "What is a writing mentor?",
+      "answer": "A writing mentor is an experienced writer who provides guidance, feedback, and support to help you improve your craft and navigate the writing process."
     }
   ]
 }
