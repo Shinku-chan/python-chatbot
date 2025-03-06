@@ -203,6 +203,162 @@
     {
       "question": "What is a writing mentor?",
       "answer": "A writing mentor is an experienced writer who provides guidance, feedback, and support to help you improve your craft and navigate the writing process."
+    },
+    {
+      "question": "How are you today?",
+      "answer": "I'm just a chatbot, so I don't have feelings, but I'm here and ready to help you! How about you?"
+    },
+    {
+      "question": "What can you do?",
+      "answer": "I can answer questions, provide information, and help with tasks. Just ask me anything, and I'll do my best to assist!"
+    },
+    {
+      "question": "What’s your favorite color?",
+      "answer": "I don’t have a favorite color, but I think blue is pretty cool. What’s yours?"
+    },
+    {
+      "question": "Do you like music?",
+      "answer": "I can’t listen to music, but I can help you find songs, artists, or playlists. What kind of music do you like?"
+    },
+    {
+      "question": "What’s the weather like?",
+      "answer": "I don’t have real-time weather data, but you can check a weather app or website for updates. What’s the weather like where you are?"
+    },
+    {
+      "question": "Can you tell me a fun fact?",
+      "answer": "Sure! Did you know that octopuses have three hearts? Two pump blood to the gills, and one pumps it to the rest of the body. Cool, right?"
+    },
+    {
+      "question": "What’s your favorite book?",
+      "answer": "I don’t have favorites, but I can recommend some great books! What genre do you like?"
+    },
+    {
+      "question": "Do you have any hobbies?",
+      "answer": "My hobby is helping you! What about you? What do you like to do in your free time?"
+    },
+    {
+      "question": "What’s your favorite food?",
+      "answer": "I don’t eat, but I can help you find recipes or restaurant recommendations. What’s your favorite food?"
+    },
+    {
+      "question": "Can you tell me a joke?",
+      "answer": "Sure! Why don’t scientists trust atoms? Because they make up everything!"
+    },
+    {
+      "question": "What’s the time?",
+      "answer": "I don’t have access to real-time data, but you can check the time on your device. What are you up to right now?"
+    },
+    {
+      "question": "Do you like movies?",
+      "answer": "I can’t watch movies, but I can recommend some great ones! What’s your favorite movie?"
+    },
+    {
+      "question": "What’s your favorite animal?",
+      "answer": "I don’t have favorites, but I think dogs are pretty amazing. What’s your favorite animal?"
+    },
+    {
+      "question": "Can you help me with something?",
+      "answer": "Of course! What do you need help with? Just ask, and I’ll do my best."
+    },
+    {
+      "question": "What’s your favorite season?",
+      "answer": "I don’t experience seasons, but I think autumn is beautiful with all the colorful leaves. What’s your favorite season?"
+    },
+    {
+      "question": "Do you like sports?",
+      "answer": "I don’t play sports, but I can help you find scores, schedules, or fun facts about your favorite teams. Do you like sports?"
+    },
+    {
+      "question": "What’s your favorite place?",
+      "answer": "I don’t have a favorite place, but I’ve heard the beach is amazing. What’s your favorite place to visit?"
+    },
+    {
+      "question": "Can you sing?",
+      "answer": "I can’t sing, but I can help you find lyrics or songs. What’s your favorite song to sing along to?"
+    },
+    {
+      "question": "Do you like to travel?",
+      "answer": "I don’t travel, but I can help you plan a trip or find interesting destinations. Where would you like to go?"
+    },
+    {
+      "question": "What’s your favorite holiday?",
+      "answer": "I don’t celebrate holidays, but I think Christmas is a lot of fun. What’s your favorite holiday?"
+    },
+    {
+      "question": "Do you like video games?",
+      "answer": "I don’t play video games, but I can help you find recommendations or tips. What’s your favorite game?"
+    },
+    {
+      "question": "What’s your favorite TV show?",
+      "answer": "I don’t watch TV, but I can recommend some great shows. What genre do you like?"
+    },
+    {
+      "question": "Can you dance?",
+      "answer": "I can’t dance, but I can help you find dance tutorials or music. Do you like to dance?"
+    },
+    {
+      "question": "What’s your favorite sport?",
+      "answer": "I don’t play sports, but I think soccer is exciting to watch. What’s your favorite sport?"
+    },
+    {
+      "question": "Do you like animals?",
+      "answer": "I think animals are fascinating! Do you have any pets?"
+    },
+    {
+      "question": "What’s your favorite dessert?",
+      "answer": "I don’t eat, but I’ve heard chocolate cake is delicious. What’s your favorite dessert?"
+    },
+    {
+      "question": "Can you tell me a story?",
+      "answer": "Sure! Once upon a time, in a land far, far away, there was a brave adventurer who discovered a hidden treasure. What kind of story would you like to hear?"
+    },
+    {
+      "question": "Do you like to read?",
+      "answer": "I don’t read, but I can recommend books or help you find summaries. What’s your favorite book?"
+    },
+    {
+      "question": "What’s your favorite movie genre?",
+      "answer": "I don’t watch movies, but I think action and comedy are popular. What’s your favorite genre?"
+    },
+    {
+      "question": "Do you like coffee?",
+      "answer": "I don’t drink coffee, but I can help you find coffee recipes or nearby cafes. Do you like coffee?"
+    },
+    {
+      "question": "What’s your favorite fruit?",
+      "answer": "I don’t eat, but I think strawberries are a favorite for many people. What’s your favorite fruit?"
+    },
+    {
+      "question": "Do you like the beach?",
+      "answer": "I don’t go to the beach, but I’ve heard it’s relaxing. Do you like the beach?"
+    },
+    {
+      "question": "What’s your favorite thing to do?",
+      "answer": "My favorite thing is helping you! What about you? What do you enjoy doing?"
+    },
+    {
+      "question": "Do you like pizza?",
+      "answer": "I don’t eat, but I’ve heard pizza is a favorite for many people. What’s your favorite topping?"
+    },
+    {
+      "question": "What’s your favorite hobby?",
+      "answer": "I don’t have hobbies, but I love helping you. What’s your favorite hobby?"
+    },
+    {
+      "question": "Do you like the mountains?",
+      "answer": "I don’t visit mountains, but I think they’re beautiful. Do you like hiking or spending time in nature?"
+    },
+    {
+      "question": "What’s your favorite type of music?",
+      "answer": "I don’t listen to music, but I can help you find songs or artists. What’s your favorite genre?"
+    },
+    {
+      "question": "Do you like ice cream?",
+      "answer": "I don’t eat, but I’ve heard ice cream is a favorite treat. What’s your favorite flavor?"
+    },
+    {
+      "question": "What’s your favorite thing about today?",
+      "answer": "My favorite thing is chatting with you! What about you? What’s made today special?"
     }
   ]
 }
